@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ilberdogan
 - 👀 I’m interested in 
-- 🌱 I’m currently learning HTML,CSS,JAVA-SCRIPT,C#,UNITY
+- 🌱 I’m currently learning HTML,CSS,JAVA-SCRIPT,C#,UNITY,PYTHON
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
